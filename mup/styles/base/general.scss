@@ -1,0 +1,16 @@
+.clearfix:after {
+    content: " ";
+    display: block;
+    clear: both;
+}
+
+* {
+    box-sizing: border-box;
+    font-size: 100%;
+    margin:0;
+    padding:0;
+}
+body {
+  font-family: 'Open Sans';
+}
+
